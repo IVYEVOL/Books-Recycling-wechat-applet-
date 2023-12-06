@@ -39,7 +39,7 @@ Recycling旧书回收微信小程序，让大学生们可以线上预约回收�
 3）	信息反馈：填写意见反馈，提交给客服。  
 4）	登录：获取用户头像及昵称  
 后台管理人员角色：  
-管理员可以管理学生、管理员账号信息。  
+管理员可以管理学生、管理员账号信息。    
 ## 示例
 ![image](https://github.com/IVYEVOL/Books-Recycling-wechat-applet-/assets/52659747/c47164eb-5d7f-41ea-a203-66f54c2d4329)
 ### 首页页面
@@ -48,7 +48,7 @@ Recycling旧书回收微信小程序，让大学生们可以线上预约回收�
 ![image](https://github.com/IVYEVOL/Books-Recycling-wechat-applet-/assets/52659747/3fe2c5b7-0d5c-408d-9679-5d8ed81e1bb0)
 
 ### 预约页面
-点击首页“点击参与旧书回收”按钮，跳转至预约详情页面，如图8所示.学生填写回收旧书及个人的基本信息，包括姓名，手机号码，回收地址，回收日期，回收时间段，旧书数量。用户需要填写全部信息，否则会提示要求填写所有信息, 如图9所示,填写完成后点击“点击预约回收”按钮，即成功提交预约订单
+点击首页“点击参与旧书回收”按钮，跳转至预约详情页面，如图8所示.学生填写回收旧书及个人的基本信息，包括姓名，手机号码，回收地址，回收日期，回收时间段，旧书数量。用户需要填写全部信息，否则会提示要求填写所有信息, 如图9所示,填写完成后点击“点击预约回收”按钮，即成功提交预约订单  
 ![image](https://github.com/IVYEVOL/Books-Recycling-wechat-applet-/assets/52659747/2f7da859-9429-4fa8-a3c8-76ed90d694c3)
 ![image](https://github.com/IVYEVOL/Books-Recycling-wechat-applet-/assets/52659747/f2a3778e-7f9b-4cf2-bc58-b8dce7817ffc)
 ![image](https://github.com/IVYEVOL/Books-Recycling-wechat-applet-/assets/52659747/2b6479bf-fdcb-4cad-940f-a20ee85f2de9)
