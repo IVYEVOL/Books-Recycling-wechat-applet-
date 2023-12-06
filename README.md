@@ -1,4 +1,4 @@
-# Books-Recycling-wechat-applet-
+# Books-Recycling-wechat-applet-旧书回收微信小程序
 Recycling旧书回收微信小程序，让大学生们可以线上预约回收旧书，通过约定特定的地点和时间，等待志愿者上门回收，以此提高学生捐书积极性。学生们也可以通过该小程序的公示信息，了解校内投书点以及各种注意事项，实现自助投书。志愿者回收的旧书将被回收或者捐赠给山区，特定的书籍将存放在特定地点供下一届学生循环使用，以此达到公益环保的目的。
 ## 软件功能结构图
 ![image](https://github.com/IVYEVOL/Books-Recycling-wechat-applet-/assets/52659747/9f59163f-d8cd-47be-96d1-a49b642398e9)
